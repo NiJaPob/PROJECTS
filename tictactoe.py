@@ -47,7 +47,7 @@ def handle_turn(player):
         if board[position] == '-':
             valid = True
         else:
-            print('You cannot go there')
+            print('You cant go there')
     
     board[position] = player
     
