@@ -56,7 +56,7 @@ def checkTime():
 def sendEmail(weather):
     sender = "nick95222@gmail.com"
     receiver = "pobjnick@gmail.com"
-    password = "umcd byfh kkrc ngdp"
+    password = ""
     subject = "Morning condtions"
     body = weather
 
