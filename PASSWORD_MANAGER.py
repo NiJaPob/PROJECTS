@@ -1,1 +1,1 @@
-from cryptography import fernet
+from cryptography.fernet import Fernet
