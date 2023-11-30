@@ -1,3 +1,5 @@
+# data scrapper for NBA players
+
 import requests
 
 url = "https://api-nba-v1.p.rapidapi.com/players/statistics"
