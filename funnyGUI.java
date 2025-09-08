@@ -35,7 +35,7 @@ public class GUI implements ActionListener{
     @Override
     public void actionPerformed(ActionEvent e) {
         try {
-            Desktop.getDesktop().browse(new URI("https://www.youtube.com/shorts/EqlIXf00U00"));
+            Desktop.getDesktop().browse(new URI(""));
         } catch (Exception ex) {
             ex.printStackTrace(); // Print error if URL fails to open
         }
